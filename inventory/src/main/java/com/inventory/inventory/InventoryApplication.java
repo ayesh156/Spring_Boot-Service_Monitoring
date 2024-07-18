@@ -15,4 +15,5 @@ public class InventoryApplication {
 	public ModelMapper modelMapper() {
 		return new ModelMapper();
 	}
+
 }
